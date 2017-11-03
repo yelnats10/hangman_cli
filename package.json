@@ -1,0 +1,22 @@
+{
+  "name": "hangman_cli",
+  "version": "1.0.0",
+  "description": "command line hangman",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelnats10/hangman_cli.git"
+  },
+  "author": "Eric Stanley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yelnats10/hangman_cli/issues"
+  },
+  "homepage": "https://github.com/yelnats10/hangman_cli#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}

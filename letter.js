@@ -12,7 +12,7 @@ var randomValue = Math.floor(Math.random() * 5);
 
 var randomMovie = call.movieArray[randomValue];
 
-console.log(randomMovie);
+
 
 
 var letterArray = [];
@@ -20,7 +20,7 @@ var letterArray = [];
 var addLetter = function(randomMovie) {
         for (var i = 0; i < randomMovie.length; i++) {
             letterArray.push(randomMovie.charAt(i));
-             console.log(letterArray);
+           
         }
     };
 
